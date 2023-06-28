@@ -1,52 +1,72 @@
-#Elena Elenina
+# Elena Elenina
 
 ---------------
-###Personal information
+## Personal information
 
 **Date of birth:** 8th February 1993
+
 **Marital status:** married
+
 **Adress:** Minsk, Belarus
+
 **Phone number:** +777(77)77-77-77
+
+
 **GitHub:** ElenaElenaElenaElena
+
 **Discord:** ElenaElenaElenaElena
 
 ---------------
-###Objective
+## Objective
 
 I am seeking a competitive and challenging environment where I can use my ability to create websites.
 
 ---------------
-###Education
+## Education
 
 Belarusian state university, International tourism department? tourism specialist (2011-2016).
 
 ---------------
-###Work experience
+## Work experience
 
 **Travel agency "Super travel", Minsk, Belarus
 Travel manager (2017 - present)**
-*route development;
-*preparation of excursion programs and entertainmen;
-*hotel reservation;
-*redemption of tickets for regular flights;
-*organization of charter flights;
-*negotiations xith the host;
-*registration of insirance and visas.
+* route development;
+* preparation of excursion programs and entertainmen;
+* hotel reservation;
+* redemption of tickets for regular flights;
+* organization of charter flights;
+* negotiations xith the host;
+* registration of insirance and visas.
 
 ---------------
-###Persinal qualities
+## Persinal qualities
 
-*Accurate;
-*Quick study;
-*Disciplined.
-
----------------
-###Code examples
-
-``` ```
+* Accurate;
+* Quick study;
+* Disciplined.
 
 ---------------
-###Special skills
+## Code examples
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Сложение</h2>
+<p id="demo"></p>
+<script>
+var x = 4;
+var y = 6;
+var z = x + y;
+document.getElementById("demo").innerHTML = z;
+</script>
+</body>
+</html>
+```
+
+---------------
+## Special skills
 
 1. Lenguage skills
     + Belarusian - native;
